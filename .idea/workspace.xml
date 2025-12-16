@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430e2bca-f36b-499e-9db4-b0c13e7853ad" name="Changes" comment="It is the nature of something that gives it meaning, not its form.">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="430e2bca-f36b-499e-9db4-b0c13e7853ad" name="Changes" comment="Static Website Template Upload.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/breakpoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/browser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.dropotron.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -94,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765904147084</updated>
-      <workItem from="1765904148108" duration="1304000" />
+      <workItem from="1765904148108" duration="3748000" />
     </task>
     <task id="LOCAL-00001" summary="It is the nature of something that gives it meaning, not its form.">
       <option name="closed" value="true" />
@@ -104,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765904185943</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Static Website Template Upload.">
+      <option name="closed" value="true" />
+      <created>1765905487430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765905487430</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +130,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="It is the nature of something that gives it meaning, not its form." />
-    <option name="LAST_COMMIT_MESSAGE" value="It is the nature of something that gives it meaning, not its form." />
+    <MESSAGE value="Static Website Template Upload." />
+    <option name="LAST_COMMIT_MESSAGE" value="Static Website Template Upload." />
   </component>
 </project>

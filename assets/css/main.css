@@ -2084,14 +2084,15 @@ ul.actions.special {
 
 /* Logo */
 
-#logo {
+#hero {
+    padding: 6em;
     width: 100%;
-    text-align: center;
+    text-align: left;
     position: relative;
     top: 1.5em;
 }
 
-#logo h1 {
+#hero h1 {
     font-weight: 900;
     text-transform: uppercase;
     color: #fff;
@@ -2099,7 +2100,7 @@ ul.actions.special {
     letter-spacing: 0.25em;
 }
 
-#logo p {
+#hero p {
     color: #eee;
     color: rgba(255, 255, 255, 0.5);
     text-transform: uppercase;
@@ -2440,11 +2441,11 @@ ul.actions.special {
     }
 
     /* Logo */
-    #logo {
+    #hero {
         margin-top: -0.5em !important;
     }
 
-    #logo h1 {
+    #hero h1 {
         font-size: 1.75em;
     }
 
@@ -2518,7 +2519,7 @@ ul.actions.special {
     }
 
     /* Logo */
-    #logo {
+    #hero {
         top: 0;
     }
 
@@ -2859,18 +2860,18 @@ ul.actions.special {
     }
 
     /* Logo */
-    #logo {
+    #hero {
         text-align: center;
         padding-left: 2em;
         padding-right: 2em;
     }
 
-    #logo h1 {
+    #hero h1 {
         font-size: 1.5em;
         letter-spacing: 0.2em;
     }
 
-    #logo p {
+    #hero p {
         margin: 1.25em 0 0 0;
         display: block;
         letter-spacing: 0.2em;
